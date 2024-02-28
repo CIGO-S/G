@@ -1,0 +1,464 @@
+,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;8:29:49
+0,(16/02/2024 8:29:52 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+1,(16/02/2024 8:29:54 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+2,(16/02/2024 8:29:58 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+3,(16/02/2024 8:29:59 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+4,(16/02/2024 8:29:59 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+5,(16/02/2024 8:29:59 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+6,(16/02/2024 8:29:59 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+7,(16/02/2024 8:29:59 a. m.) ;Configuracion;Cargue configuración exitoso
+8,(16/02/2024 8:29:59 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+9,(16/02/2024 8:29:59 a. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+10,(16/02/2024 8:30:05 a. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+11,(16/02/2024 8:31:06 a. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+12,(16/02/2024 8:31:30 a. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+13,(16/02/2024 8:31:37 a. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+14,(16/02/2024 8:31:52 a. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+15,(16/02/2024 8:31:52 a. m.) ;SubMaestraCorreoEstado;Inició tarea
+16,(16/02/2024 8:32:29 a. m.) ;LoginC360; Davibox; Taskkill ejecutado
+17,(16/02/2024 8:34:24 a. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+18,(16/02/2024 8:34:47 a. m.) ;LoginMasiv;Masiv;Inicio de sesión en Masiv exitoso.
+19,"(16/02/2024 8:34:47 a. m.) ;SubMaestraCorreoEstado;Se ejecutara script FechaConFormato.vbs. Parametros: ""hoy"" ""ddmmyyyy"""
+20,(16/02/2024 8:34:48 a. m.) ;SubMaestraCorreoEstado;Script ejecutado FechaConFormato.vbs output: 16022024
+21,(16/02/2024 8:34:48 a. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+22,(16/02/2024 8:34:50 a. m.) ;SubMaestraCorreoEstado;Fin tarea
+23,"(16/02/2024 8:34:50 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+24,"(16/02/2024 8:34:51 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+25,(16/02/2024 8:34:51 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+26,(16/02/2024 8:34:52 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+27,(16/02/2024 8:34:52 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+28,(16/02/2024 8:34:52 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+29,(16/02/2024 8:34:52 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+30,(16/02/2024 8:34:55 a. m.) ;CargarArchivos; Respuesta Gdrive: 1ne8ipsny-4wS3HBPG7gfzEklTO49uOzs
+31,"(16/02/2024 8:34:56 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+32,"(16/02/2024 8:34:57 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+33,(16/02/2024 8:34:57 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+34,(16/02/2024 8:34:58 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+35,(16/02/2024 8:34:58 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+36,(16/02/2024 8:34:58 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+37,(16/02/2024 8:34:58 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+38,(16/02/2024 8:35:00 a. m.) ;CargarArchivos; Respuesta Gdrive: 1ne8ipsny-4wS3HBPG7gfzEklTO49uOzs
+39,"(16/02/2024 8:35:01 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+40,"(16/02/2024 8:35:01 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+41,(16/02/2024 8:35:01 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+42,(16/02/2024 8:35:02 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+43,(16/02/2024 8:35:02 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+44,(16/02/2024 8:35:02 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+45,(16/02/2024 8:35:02 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+46,(16/02/2024 8:35:05 a. m.) ;CargarArchivos; Respuesta Gdrive: 1ne8ipsny-4wS3HBPG7gfzEklTO49uOzs
+47,(16/02/2024 8:35:08 a. m.) ;MaestraNotificaciones1;Correo enviado
+48,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;9:24:26
+49,(16/02/2024 9:24:29 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+50,(16/02/2024 9:24:30 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+51,(16/02/2024 9:24:35 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+52,(16/02/2024 9:24:35 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+53,(16/02/2024 9:24:36 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+54,(16/02/2024 9:24:36 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+55,(16/02/2024 9:24:36 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+56,(16/02/2024 9:24:36 a. m.) ;Configuracion;Cargue configuración exitoso
+57,(16/02/2024 9:24:36 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+58,(16/02/2024 9:24:36 a. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+59,(16/02/2024 9:24:42 a. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+60,(16/02/2024 9:26:00 a. m.) ;LoginDavibox;Davibox;No fue posible iniciar Sesión en Davibox.
+61,(16/02/2024 9:26:08 a. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+62,(16/02/2024 9:32:54 a. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+63,(16/02/2024 9:33:14 a. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+64,(16/02/2024 9:33:22 a. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+65,(16/02/2024 9:33:37 a. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+66,(16/02/2024 9:33:37 a. m.) ;SubMaestraCorreoEstado;Inició tarea
+67,(16/02/2024 9:34:25 a. m.) ;LoginC360; Davibox; Taskkill ejecutado
+68,(16/02/2024 9:36:18 a. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+69,(16/02/2024 9:36:42 a. m.) ;LoginMasiv;Masiv;Inicio de sesión en Masiv exitoso.
+70,"(16/02/2024 9:36:42 a. m.) ;SubMaestraCorreoEstado;Se ejecutara script FechaConFormato.vbs. Parametros: ""hoy"" ""ddmmyyyy"""
+71,(16/02/2024 9:36:43 a. m.) ;SubMaestraCorreoEstado;Script ejecutado FechaConFormato.vbs output: 16022024
+72,(16/02/2024 9:36:43 a. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+73,"(16/02/2024 9:36:45 a. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41288901503"""
+74,(16/02/2024 9:36:55 a. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: REASIGNAR
+75,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;9:40:43
+76,(16/02/2024 9:40:45 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+77,(16/02/2024 9:40:46 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+78,(16/02/2024 9:40:51 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+79,(16/02/2024 9:40:51 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+80,(16/02/2024 9:40:51 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+81,(16/02/2024 9:40:51 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+82,(16/02/2024 9:40:51 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+83,(16/02/2024 9:40:51 a. m.) ;Configuracion;Cargue configuración exitoso
+84,(16/02/2024 9:40:51 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+85,(16/02/2024 9:40:52 a. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+86,(16/02/2024 9:40:58 a. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+87,(16/02/2024 9:42:01 a. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+88,(16/02/2024 9:42:27 a. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+89,(16/02/2024 9:42:34 a. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+90,(16/02/2024 9:42:48 a. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+91,(16/02/2024 9:42:48 a. m.) ;SubMaestraCorreoEstado;Inició tarea
+92,(16/02/2024 9:43:07 a. m.) ;LoginC360; Davibox; Taskkill ejecutado
+93,(16/02/2024 9:44:55 a. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+94,(16/02/2024 9:45:18 a. m.) ;LoginMasiv;Masiv;Inicio de sesión en Masiv exitoso.
+95,"(16/02/2024 9:45:18 a. m.) ;SubMaestraCorreoEstado;Se ejecutara script FechaConFormato.vbs. Parametros: ""hoy"" ""ddmmyyyy"""
+96,(16/02/2024 9:45:18 a. m.) ;SubMaestraCorreoEstado;Script ejecutado FechaConFormato.vbs output: 16022024
+97,(16/02/2024 9:45:18 a. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+98,(16/02/2024 9:45:20 a. m.) ;SubMaestraCorreoEstado;Fin tarea
+99,"(16/02/2024 9:45:31 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+100,"(16/02/2024 9:45:32 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+101,(16/02/2024 9:45:32 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+102,(16/02/2024 9:45:33 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+103,(16/02/2024 9:45:33 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+104,(16/02/2024 9:45:33 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+105,(16/02/2024 9:45:33 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+106,(16/02/2024 9:45:35 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+107,"(16/02/2024 9:45:38 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+108,"(16/02/2024 9:45:38 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+109,(16/02/2024 9:45:38 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+110,(16/02/2024 9:45:39 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+111,(16/02/2024 9:45:39 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+112,(16/02/2024 9:45:39 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+113,(16/02/2024 9:45:39 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+114,(16/02/2024 9:45:42 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+115,"(16/02/2024 9:45:42 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+116,"(16/02/2024 9:45:43 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+117,(16/02/2024 9:45:43 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+118,(16/02/2024 9:45:44 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+119,(16/02/2024 9:45:44 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+120,(16/02/2024 9:45:44 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+121,(16/02/2024 9:45:44 a. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+122,(16/02/2024 9:45:46 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+123,(16/02/2024 9:45:50 a. m.) ;MaestraNotificaciones1;Correo enviado
+124,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;9:49:37
+125,(16/02/2024 9:49:39 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+126,(16/02/2024 9:49:40 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+127,(16/02/2024 9:49:46 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+128,(16/02/2024 9:49:47 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+129,(16/02/2024 9:49:47 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+130,(16/02/2024 9:49:47 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+131,(16/02/2024 9:49:47 a. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+132,(16/02/2024 9:49:47 a. m.) ;Configuracion;Cargue configuración exitoso
+133,(16/02/2024 9:49:47 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+134,"(16/02/2024 9:49:50 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+135,"(16/02/2024 9:49:51 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+136,(16/02/2024 9:49:51 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+137,(16/02/2024 9:49:52 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+138,(16/02/2024 9:49:55 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+139,"(16/02/2024 9:50:04 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+140,"(16/02/2024 9:50:04 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+141,(16/02/2024 9:50:05 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+142,(16/02/2024 9:50:06 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+143,(16/02/2024 9:50:07 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+144,"(16/02/2024 9:50:09 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+145,"(16/02/2024 9:50:09 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+146,(16/02/2024 9:50:09 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+147,(16/02/2024 9:50:10 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+148,(16/02/2024 9:50:12 a. m.) ;CargarArchivos; Respuesta Gdrive: 14NwgA-FQBbahOKqXhWlw7CFGg9OunKh8
+149,(16/02/2024 9:50:16 a. m.) ;MaestraNotificaciones1;Correo enviado
+150,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;9:56:25
+151,(16/02/2024 9:56:27 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+152,(16/02/2024 9:56:28 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+153,(16/02/2024 9:56:33 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+154,(16/02/2024 9:56:33 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+155,(16/02/2024 9:56:33 a. m.) ;Configuracion;Cargue configuración exitoso
+156,(16/02/2024 9:56:33 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+157,"(16/02/2024 9:56:34 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+158,"(16/02/2024 9:56:34 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+159,(16/02/2024 9:56:34 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+160,(16/02/2024 9:56:35 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+161,(16/02/2024 9:56:36 a. m.) ;CargarArchivos; Respuesta Gdrive:
+162,(16/02/2024 9:56:36 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+163,"(16/02/2024 9:56:41 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+164,"(16/02/2024 9:56:41 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+165,(16/02/2024 9:56:41 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+166,(16/02/2024 9:56:42 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+167,(16/02/2024 9:56:43 a. m.) ;CargarArchivos; Respuesta Gdrive:
+168,(16/02/2024 9:56:43 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+169,"(16/02/2024 9:56:44 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+170,"(16/02/2024 9:56:44 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+171,(16/02/2024 9:56:44 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+172,(16/02/2024 9:56:45 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+173,(16/02/2024 9:56:45 a. m.) ;CargarArchivos; Respuesta Gdrive:
+174,(16/02/2024 9:56:45 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+175,(16/02/2024 9:56:50 a. m.) ;MaestraNotificaciones1;Correo enviado
+176,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;9:57:47
+177,(16/02/2024 9:57:48 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+178,(16/02/2024 9:57:49 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+179,(16/02/2024 9:57:54 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+180,(16/02/2024 9:57:55 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+181,(16/02/2024 9:57:55 a. m.) ;Configuracion;Cargue configuración exitoso
+182,(16/02/2024 9:57:55 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+183,"(16/02/2024 9:57:55 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+184,"(16/02/2024 9:57:56 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+185,(16/02/2024 9:57:56 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+186,(16/02/2024 9:57:57 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+187,(16/02/2024 9:57:57 a. m.) ;CargarArchivos; Respuesta Gdrive:
+188,(16/02/2024 9:57:57 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+189,"(16/02/2024 9:58:02 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+190,"(16/02/2024 9:58:03 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+191,(16/02/2024 9:58:03 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+192,(16/02/2024 9:58:04 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+193,(16/02/2024 9:58:04 a. m.) ;CargarArchivos; Respuesta Gdrive:
+194,(16/02/2024 9:58:04 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+195,"(16/02/2024 9:58:05 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+196,"(16/02/2024 9:58:05 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+197,(16/02/2024 9:58:05 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+198,(16/02/2024 9:58:06 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+199,(16/02/2024 9:58:07 a. m.) ;CargarArchivos; Respuesta Gdrive:
+200,(16/02/2024 9:58:07 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+201,(16/02/2024 9:58:12 a. m.) ;MaestraNotificaciones1;Correo enviado
+202,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:0:35
+203,(16/02/2024 10:00:37 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+204,(16/02/2024 10:00:38 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+205,(16/02/2024 10:00:45 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+206,(16/02/2024 10:00:45 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+207,(16/02/2024 10:00:45 a. m.) ;Configuracion;Cargue configuración exitoso
+208,(16/02/2024 10:00:45 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+209,"(16/02/2024 10:00:46 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+210,"(16/02/2024 10:00:46 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+211,(16/02/2024 10:00:46 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+212,(16/02/2024 10:00:47 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+213,(16/02/2024 10:00:48 a. m.) ;CargarArchivos; Respuesta Gdrive:
+214,(16/02/2024 10:00:48 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+215,(16/02/2024 10:00:49 a. m.) ;CargarArchivos;Finalizo Tarea
+216,(16/02/2024 10:00:52 a. m.) ;MaestraNotificaciones1;Correo enviado
+217,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:5:44
+218,(16/02/2024 10:05:46 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+219,(16/02/2024 10:05:48 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+220,(16/02/2024 10:05:52 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+221,(16/02/2024 10:05:53 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+222,(16/02/2024 10:05:53 a. m.) ;Configuracion;Cargue configuración exitoso
+223,(16/02/2024 10:05:53 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+224,"(16/02/2024 10:05:53 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+225,"(16/02/2024 10:05:54 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+226,(16/02/2024 10:05:54 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+227,(16/02/2024 10:05:55 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+228,(16/02/2024 10:05:55 a. m.) ;CargarArchivos; Respuesta Gdrive:
+229,(16/02/2024 10:05:55 a. m.) ;CargarArchivos;Ocurrio un error al tratar de subir el archivo a Drive
+230,(16/02/2024 10:05:57 a. m.) ;CargarArchivos;Finalizo Tarea
+231,(16/02/2024 10:06:00 a. m.) ;MaestraNotificaciones1;Correo enviado
+232,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:8:49
+233,(16/02/2024 10:08:51 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+234,(16/02/2024 10:08:52 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+235,(16/02/2024 10:08:57 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+236,(16/02/2024 10:08:57 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+237,(16/02/2024 10:08:57 a. m.) ;Configuracion;Cargue configuración exitoso
+238,(16/02/2024 10:08:57 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+239,"(16/02/2024 10:08:58 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+240,"(16/02/2024 10:08:58 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+241,(16/02/2024 10:08:58 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+242,(16/02/2024 10:08:59 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+243,(16/02/2024 10:09:02 a. m.) ;CargarArchivos; Respuesta Gdrive: 1YckBCRCRyADczOkHNhvw6ZQQ0alsDBrb
+244,(16/02/2024 10:09:03 a. m.) ;CargarArchivos;Finalizo Tarea
+245,(16/02/2024 10:09:03 a. m.) ;MaestraNotificaciones1;Fin Tarea
+246,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:16:11
+247,(16/02/2024 10:16:14 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+248,(16/02/2024 10:16:15 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+249,(16/02/2024 10:16:20 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+250,(16/02/2024 10:16:20 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+251,(16/02/2024 10:16:21 a. m.) ;Configuracion;Cargue configuración exitoso
+252,(16/02/2024 10:16:21 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+253,"(16/02/2024 10:16:21 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+254,"(16/02/2024 10:16:22 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+255,(16/02/2024 10:16:22 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+256,(16/02/2024 10:16:23 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+257,(16/02/2024 10:16:26 a. m.) ;CargarArchivos; Respuesta Gdrive: 1YckBCRCRyADczOkHNhvw6ZQQ0alsDBrb
+258,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:17:47
+259,(16/02/2024 10:17:48 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+260,(16/02/2024 10:17:49 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+261,(16/02/2024 10:17:53 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+262,(16/02/2024 10:17:53 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+263,(16/02/2024 10:17:53 a. m.) ;Configuracion;Cargue configuración exitoso
+264,(16/02/2024 10:17:54 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+265,"(16/02/2024 10:17:54 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+266,"(16/02/2024 10:17:55 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+267,(16/02/2024 10:17:55 a. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+268,(16/02/2024 10:17:56 a. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+269,(16/02/2024 10:17:56 a. m.) C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes\ArchivosSoporte_16022024_10.zip
+270,(16/02/2024 10:17:58 a. m.) ;CargarArchivos; Respuesta Gdrive: 1YckBCRCRyADczOkHNhvw6ZQQ0alsDBrb
+271,(16/02/2024 10:19:22 a. m.) ;CargarArchivos; No aplica; Validando la existencia del archivo: C:\Automation Anywhere Files/Automation Anywhere/My Docs/R_Notificaciones_1/Archivos/ReporteNotificaciones_16022024_10.csv
+272,(16/02/2024 10:19:23 a. m.) ;CargarArchivos;Finalizo Tarea
+273,(16/02/2024 10:19:23 a. m.) ;MaestraNotificaciones1;Fin Tarea
+274,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;10:26:6
+275,(16/02/2024 10:26:08 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+276,(16/02/2024 10:26:09 a. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+277,(16/02/2024 10:26:13 a. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+278,(16/02/2024 10:26:13 a. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+279,(16/02/2024 10:26:13 a. m.) ;Configuracion;Cargue configuración exitoso
+280,(16/02/2024 10:26:13 a. m.) ;MaestraNotificaciones1;Inicio Tarea
+281,"(16/02/2024 10:26:14 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+282,"(16/02/2024 10:26:57 a. m.) ;CargarArchivos;Script Ejecutado FechaConFormato.vbs output: ""16022024"""
+283,"(16/02/2024 10:26:58 a. m.) ;CargarArchivos;Se ejecutara script: FechaConFormato.vbs Parametros: ""hoy"" ""ddmmyyyy"""
+284,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;13:32:37
+285,(16/02/2024 1:32:40 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+286,(16/02/2024 1:32:41 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+287,(16/02/2024 1:32:46 p. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+288,(16/02/2024 1:32:46 p. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+289,(16/02/2024 1:32:46 p. m.) ;Configuracion;Cargue configuración exitoso
+290,(16/02/2024 1:32:46 p. m.) ;MaestraNotificaciones1;Inicio Tarea
+291,(16/02/2024 1:32:46 p. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+292,(16/02/2024 1:32:52 p. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+293,(16/02/2024 1:34:00 p. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+294,(16/02/2024 1:34:24 p. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+295,(16/02/2024 1:34:30 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+296,(16/02/2024 1:34:44 p. m.) ;DescargarDavibox;Archivo (Salidas_Historicos.zip) descargada en carpeta archivos
+297,(16/02/2024 1:34:50 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_Historicos.zip)
+298,(16/02/2024 1:34:59 p. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+299,(16/02/2024 1:35:00 p. m.) ;SubMaestraCorreoEstado;Inició tarea
+300,(16/02/2024 1:35:09 p. m.) ;LoginC360; Davibox; Taskkill ejecutado
+301,(16/02/2024 1:37:01 p. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+302,(16/02/2024 1:37:38 p. m.) ;LoginMasiv; Masiv;Inicio de sesión en Masiv exitoso.
+303,(16/02/2024 1:37:38 p. m.) ;SubMaestraCorreoEstado;Fecha de hoy: 16022024
+304,(16/02/2024 1:37:38 p. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+305,(16/02/2024 1:37:39 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+306,(16/02/2024 1:38:21 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+307,"(16/02/2024 1:38:21 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295938371"""
+308,(16/02/2024 1:38:32 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+309,(16/02/2024 1:39:25 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+310,(16/02/2024 1:40:06 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+311,"(16/02/2024 1:40:06 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295446666"""
+312,(16/02/2024 1:40:46 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+313,(16/02/2024 1:41:39 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+314,(16/02/2024 1:42:19 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+315,"(16/02/2024 1:42:19 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295880307"""
+316,(16/02/2024 1:43:20 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+317,(16/02/2024 1:44:12 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+318,(16/02/2024 1:44:52 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+319,"(16/02/2024 1:44:52 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295438780"""
+320,(16/02/2024 1:45:33 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+321,(16/02/2024 1:46:27 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+322,(16/02/2024 1:47:09 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+323,"(16/02/2024 1:47:09 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295894305"""
+324,(16/02/2024 1:47:49 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+325,(16/02/2024 1:48:43 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+326,(16/02/2024 1:48:58 p. m.) ;EnviarCorreoMasiv;No se encontró correo asociado a esta identificación
+327,"(16/02/2024 1:48:59 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41296223349"""
+328,(16/02/2024 1:49:56 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: REASIGNAR
+329,;CambiarEstadoC360;C360; Se adjunta correctamente el archivo
+330,(16/02/2024 1:50:52 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+331,(16/02/2024 1:51:34 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+332,"(16/02/2024 1:51:34 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295928399"""
+333,(16/02/2024 1:52:14 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+334,(16/02/2024 1:53:07 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+335,(16/02/2024 1:53:49 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+336,"(16/02/2024 1:53:49 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295753685"""
+337,(16/02/2024 1:54:30 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+338,(16/02/2024 1:55:31 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+339,(16/02/2024 1:56:13 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+340,"(16/02/2024 1:56:13 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41296164248"""
+341,(16/02/2024 1:56:53 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+342,(16/02/2024 1:57:44 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+343,(16/02/2024 1:58:29 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+344,"(16/02/2024 1:58:29 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41296167534"""
+345,(16/02/2024 1:59:09 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+346,(16/02/2024 2:00:04 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+347,(16/02/2024 2:00:46 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+348,"(16/02/2024 2:00:46 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295760209"""
+349,(16/02/2024 2:01:26 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+350,(16/02/2024 2:02:20 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+351,(16/02/2024 2:03:01 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+352,"(16/02/2024 2:03:01 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295810156"""
+353,(16/02/2024 2:03:42 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+354,(16/02/2024 2:04:42 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+355,(16/02/2024 2:04:59 p. m.) ;EnviarCorreoMasiv;No se encontró correo asociado a esta identificación
+356,"(16/02/2024 2:05:00 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295704417"""
+357,(16/02/2024 2:05:41 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: REASIGNAR
+358,;CambiarEstadoC360;C360; Se adjunta correctamente el archivo
+359,"(16/02/2024 2:06:38 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41296320916"""
+360,(16/02/2024 2:07:17 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: REASIGNAR
+361,(16/02/2024 2:08:01 p. m.) ;SubMaestraCorreoEstado;Fin tarea
+362,(16/02/2024 2:08:06 p. m.) ;CargarArchivos;Fecha de hoy: 16022024
+363,(16/02/2024 2:08:06 p. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+364,(16/02/2024 2:08:07 p. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+365,(16/02/2024 2:08:07 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+366,(16/02/2024 2:08:07 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+367,(16/02/2024 2:08:07 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+368,(16/02/2024 2:08:08 p. m.) ;CargarArchivos; No aplica; Se cargara a drive el archivo: C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes\ArchivosSoporte_16022024_14.zip en la carpeta con id: 1obD0KgdQVqdTJEN55a0DAm2qINZ5wDZ1
+369,(16/02/2024 2:08:10 p. m.) ;CargarArchivos; Respuesta Gdrive: 1wXLKTVmjgp1J60wlUYHxImsoEo7r-499
+370,(16/02/2024 2:08:11 p. m.) ;CargarArchivos; No aplica; Validando la existencia del archivo: C:\Automation Anywhere Files/Automation Anywhere/My Docs/R_Notificaciones_1/Archivos/ReporteNotificaciones_16022024_14.csv
+371,"(16/02/2024 2:08:11 p. m.) ;CargarArchivos;Macro ejecutada CrearXlsxDesdeCsv parametros: ""C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\ReporteNotificaciones_16022024_14.csv"""
+372,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;15:52:21
+373,(16/02/2024 3:52:23 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+374,(16/02/2024 3:52:24 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+375,(16/02/2024 3:52:30 p. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+376,(16/02/2024 3:52:30 p. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+377,(16/02/2024 3:52:31 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+378,(16/02/2024 3:52:31 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+379,(16/02/2024 3:52:31 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+380,(16/02/2024 3:52:31 p. m.) ;Configuracion;Cargue configuración exitoso
+381,(16/02/2024 3:52:31 p. m.) ;MaestraNotificaciones1;Inicio Tarea
+382,(16/02/2024 3:52:31 p. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+383,(16/02/2024 3:52:38 p. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+384,(16/02/2024 3:53:43 p. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+385,(16/02/2024 3:54:02 p. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+386,(16/02/2024 3:54:09 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+387,(16/02/2024 3:54:23 p. m.) ;DescargarDavibox;Archivo (Salidas_Historicos.zip) descargada en carpeta archivos
+388,(16/02/2024 3:54:29 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_Historicos.zip)
+389,(16/02/2024 3:54:39 p. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+390,(16/02/2024 3:54:39 p. m.) ;SubMaestraCorreoEstado;Inició tarea
+391,(16/02/2024 3:55:13 p. m.) ;LoginC360; Davibox; Taskkill ejecutado
+392,(16/02/2024 3:57:06 p. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+393,(16/02/2024 3:57:29 p. m.) ;LoginMasiv;Masiv;Inicio de sesión en Masiv exitoso.
+394,(16/02/2024 3:57:29 p. m.) ;SubMaestraCorreoEstado;Fecha de hoy: 16022024
+395,(16/02/2024 3:57:29 p. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+396,(16/02/2024 3:57:30 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+397,(16/02/2024 3:58:12 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+398,"(16/02/2024 3:58:12 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295938371"""
+399,(16/02/2024 3:58:52 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+400,(16/02/2024 3:59:35 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+401,(16/02/2024 4:00:15 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+402,"(16/02/2024 4:00:15 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295446666"""
+403,(16/02/2024 4:01:12 p. m.) ;LoginC360; Davibox; Taskkill ejecutado
+404,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;16:7:19
+405,(16/02/2024 4:07:22 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+406,(16/02/2024 4:07:23 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+407,RNFS;ancramir;VDIRPA372;90.128.1.120;GenerarLog;2024216;16:34:46
+408,(16/02/2024 4:34:48 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo configuracion.json ID: 1oto3xGnesJQB3ZR61J05u1nlfOpTiJcs
+409,(16/02/2024 4:34:49 p. m.) ;Configuracion;Gsuite;  Descarga exitosa archivo Parametros.xlsx ID: 1qsx1GnRzLNn2Xvvfvws5mKyFlivQ48q1VeyI9lqE9ZU
+410,(16/02/2024 4:34:53 p. m.) ;Configuracion;CMD; (Taskkill) ejecutado
+411,(16/02/2024 4:34:54 p. m.) ;Configuracion;No aplica;Archivos eliminados de la carpeta 'Archivos'
+412,(16/02/2024 4:34:54 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Historicos' eliminada de la carpeta 'Archivos'
+413,(16/02/2024 4:34:54 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_His_Pro' eliminada de la carpeta 'Archivos'
+414,(16/02/2024 4:34:54 p. m.) ;Configuracion;No aplica;Carpeta 'Salidas_Proyecciones' eliminada de la carpeta 'Archivos'
+415,(16/02/2024 4:34:54 p. m.) ;Configuracion;Cargue configuración exitoso
+416,(16/02/2024 4:34:54 p. m.) ;MaestraNotificaciones1;Inicio Tarea
+417,(16/02/2024 4:34:54 p. m.) ;SubMaestraDescargarDavibox;Inicio Tarea
+418,(16/02/2024 4:35:02 p. m.) ;LoginDavibox; Davibox; Taskkill ejecutado
+419,(16/02/2024 4:36:01 p. m.) ;LoginDavibox;Davibox;Inicio de sesión en Davibox exitoso.
+420,(16/02/2024 4:36:21 p. m.) ;DescargarDavibox;Archivo (Salidas_His_Pro.zip) descargada en carpeta archivos
+421,(16/02/2024 4:36:28 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_His_Pro.zip)
+422,(16/02/2024 4:36:42 p. m.) ;DescargarDavibox;Archivo (Salidas_Historicos.zip) descargada en carpeta archivos
+423,(16/02/2024 4:36:48 p. m.) ;DescargarDavibox;Archivos eliminados de Davibox  (Salidas_Historicos.zip)
+424,(16/02/2024 4:36:58 p. m.) ;SubMaestraDescargarDavibox;Fin Tarea
+425,(16/02/2024 4:36:58 p. m.) ;SubMaestraCorreoEstado;Inició tarea
+426,(16/02/2024 4:37:34 p. m.) ;LoginC360; Davibox; Taskkill ejecutado
+427,(16/02/2024 4:39:23 p. m.) ;LoginC360;C360;Inicio de sesión en C360 exitoso.
+428,(16/02/2024 4:39:44 p. m.) ;LoginMasiv;Masiv;Inicio de sesión en Masiv exitoso.
+429,(16/02/2024 4:39:44 p. m.) ;SubMaestraCorreoEstado;Fecha de hoy: 16022024
+430,(16/02/2024 4:39:44 p. m.) ;SubMaestraCorreoEstado;Copiar archivo (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones.xlsx) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Templet\Reporte_Notificaciones_Check.xlsx)
+431,(16/02/2024 4:39:45 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+432,(16/02/2024 4:40:27 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+433,"(16/02/2024 4:40:27 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295938371"""
+434,(16/02/2024 4:40:37 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+435,(16/02/2024 4:41:18 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+436,(16/02/2024 4:41:59 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+437,"(16/02/2024 4:41:59 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295446666"""
+438,(16/02/2024 4:42:39 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+439,(16/02/2024 4:43:23 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+440,(16/02/2024 4:44:02 p. m.) ;EnviarCorreoMasiv;Email enviado con exito
+441,"(16/02/2024 4:44:02 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295810156"""
+442,(16/02/2024 4:44:42 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: Generado
+443,(16/02/2024 4:45:26 p. m.) ;EnviarCorreoMasiv; Masiv; Persona natural
+444,(16/02/2024 4:45:53 p. m.) ;EnviarCorreoMasiv;No se encontró correo asociado a esta identificación
+445,"(16/02/2024 4:45:54 p. m.) ;CambiarEstadoC360;Numero de Radicado: ""1-41295704417"""
+446,(16/02/2024 4:46:34 p. m.) ;CambiarEstadoC360;C360; Estado de procesamiento: REASIGNAR
+447,(16/02/2024 4:47:23 p. m.) ;SubMaestraCorreoEstado;Fin tarea
+448,(16/02/2024 4:47:28 p. m.) ;CargarArchivos;Fecha de hoy: 16022024
+449,(16/02/2024 4:47:28 p. m.) ;CargarArchivos;Carpeta Eliminada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+450,(16/02/2024 4:47:29 p. m.) ;CargarArchivos;Carpeta creada (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+451,(16/02/2024 4:47:29 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_His_Pro) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+452,(16/02/2024 4:47:29 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Historicos) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+453,(16/02/2024 4:47:29 p. m.) ;CargarArchivos;Carpeta copiada de (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\Salidas_Proyecciones) a (C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes)
+454,(16/02/2024 4:47:29 p. m.) ;CargarArchivos; No aplica; Se cargara a drive el archivo: C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Reportes\ArchivosSoporte_16022024_16.zip en la carpeta con id: 1obD0KgdQVqdTJEN55a0DAm2qINZ5wDZ1
+455,(16/02/2024 4:47:32 p. m.) ;CargarArchivos; Respuesta Gdrive: 1ZwO2CH4nJ3bGgk_gvP1Z_dhcghQs7ntZ
+456,(16/02/2024 4:47:32 p. m.) ;CargarArchivos; No aplica; Validando la existencia del archivo: C:\Automation Anywhere Files/Automation Anywhere/My Docs/R_Notificaciones_1/Archivos/ReporteNotificaciones_16022024_16.csv
+457,"(16/02/2024 4:47:32 p. m.) ;CargarArchivos;Macro ejecutada CrearXlsxDesdeCsv parametros: ""C:\Automation Anywhere Files\Automation Anywhere\My Docs\R_Notificaciones_1\Archivos\ReporteNotificaciones_16022024_16.csv"""
+458,(16/02/2024 4:47:48 p. m.) ;CargarArchivos;Correo enviada
+459,(16/02/2024 4:47:48 p. m.) ;SubirArchivosDrive;Drive;Inicia la tarea SubirArchivosDrive. Intento: 1
+460,(16/02/2024 4:48:24 p. m.) ;SubirArchivosDrive;Drive;Finaliza la tarea SubirArchivosDrive.
+461,(16/02/2024 4:48:25 p. m.) ;CargarArchivos;Finalizo Tarea
+462,(16/02/2024 4:48:25 p. m.) ;MaestraNotificaciones1;Fin Tarea
